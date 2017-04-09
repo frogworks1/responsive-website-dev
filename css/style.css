@@ -1,9 +1,14 @@
 .branding{
-  font-size: 17px;
+  font-size: 22px;
+  font-family: 'Playfair Display', serif;
+}
+
+.logo{
+  padding: 5px 5px;
 }
 
 .showcase{
-  background:url('../img/showcase02-flat.jpg') no-repeat;
+  background:url('../img/old-wood.png') no-repeat;
   background-position: center;
   height: 600px;
   padding: 140px 100px;
@@ -11,7 +16,7 @@
 }
 
 .showcase h1{
-  font-size: 40px;
+  font-size: 60px;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -20,11 +25,12 @@
   width: 100px;
   margin:auto;
   border-width: 3px;
-  border-color: #f44336;
+  border-color: #fff;
 }
 
 .showcase p{
-  font-size: 16;
+  font-size: 24px;
+  font-family: 'Playfair Display', serif;
   padding-bottom: 20px;
 }
 
