@@ -61,3 +61,13 @@
     padding: 60px 0px;
   }
 }
+
+.portfolio-row{
+  font-size: 14px;
+  font-family: serif;
+  text-align: center;
+}
+
+.singlerow{
+  padding: 16px;
+}
