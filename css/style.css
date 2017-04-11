@@ -71,3 +71,8 @@
 .singlerow{
   padding: 16px;
 }
+
+.footer-picture{
+  background:url('../img/old-wood.png') no-repeat;
+  background-position: center;
+}
